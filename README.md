@@ -35,7 +35,9 @@ The AI will process the invoice and provide a textual response based on your inp
 
 # Technologies Used
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)
+![Google Generative AI](https://img.shields.io/badge/-Google%20Generative%20AI-4285F4?logo=google&logoColor=white&style=flat)
+![PIL](https://img.shields.io/badge/-PIL-3776AB?logo=python&logoColor=white&style=flat)
 
 # Known Issues and Limitations
 - Model Dependency: The app relies on the Google Gemini AI model, which may have rate limits depending on the API key's usage plan.
