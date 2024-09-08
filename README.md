@@ -1,7 +1,7 @@
 # MultiLingual-Invoice-Extractor
 This project is a web application built using Streamlit and Google Gemini AI (gemini-1.5-flash), which extracts and analyzes information from uploaded invoice images. The app allows users to upload invoices in various image formats and uses advanced AI to interpret the content, making it particularly useful for multilingual and complex invoices.
 
-# Features
+# Features 
  - Invoice Upload: Users can upload invoice images in .jpg, .jpeg, or .png format.
  - AI-based Invoice Analysis: Utilizes Google's Gemini AI (gemini-1.5-flash) for 
   generating intelligent responses based on the uploaded invoice image and user-provided prompts.
@@ -34,7 +34,8 @@ The AI will process the invoice and provide a textual response based on your inp
 - input_image_details(uploaded_file): Prepares the image data for processing by the AI.
 
 # Technologies Used
-![Python]
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+
 
 # Known Issues and Limitations
 - Model Dependency: The app relies on the Google Gemini AI model, which may have rate limits depending on the API key's usage plan.
